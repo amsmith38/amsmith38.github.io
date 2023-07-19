@@ -1,0 +1,12 @@
+@charset "utf-8";
+header {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    text-align: center;
+    background-color: #0071B0;
+    -webkit-box-shadow: 0px 0px #0071B0;
+    box-shadow: 0px 0px #0071B0;
+    background-size: contain;
+    color: #FFFFFF;
+}
+.header {
+}

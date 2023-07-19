@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+<head>
+<!--Aulana Smith, CTI110-0002-->
+<meta name="keywords"content= "content creator, writing services, copywriting, blogging, startup content, web contents, freelance blog, content strategy, startup copywriter, contact, Aulana"
+<meta name="description"  content= "Contact me to secure a writer for your startup!"
+<title>Contact Page</title>
+<body>
+<H1>Contact Me</H1>
+<p> If you are in need of a content writer for your start-up, I am the right choice. You can reach me by email of phone!</p>
+<!--This file is my own work and I typed everything manually, Smith-->
+</body>
+</html>

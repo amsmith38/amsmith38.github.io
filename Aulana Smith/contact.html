@@ -1,0 +1,67 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>contact</title>
+<link href="styles.css" rel="stylesheet" type="text/css">
+<link href="menu.css" rel="stylesheet" type="text/css">
+<link href="contact info.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<header><div>
+    <ul id="menu">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </div>
+<span style="color: #0071B0"></span>
+	<!DOCTYPE html>
+<html>
+<head>
+  <title>Contact Form</title>
+  <style>
+ 
+    form {
+      max-width:600px;
+      margin: 0 auto;
+    }
+    label, input, textarea {
+      display: block;
+      margin-bottom: 10px;
+		width: 100%;
+    }
+    textarea {
+      height: 200px;
+    }
+    button {
+      background-color: #0071b0;
+      color: white;
+      padding: 10px 15px;
+      border: 2px solid #000;
+		padding: 20px;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #0071c2;
+    }
+  </style>
+</head>
+<body>
+  <form method="POST" action="send_email.php">
+    <label for="name">Name:</label>
+    <input type="text" id="name" name="name" required>
+  
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email" required>
+  
+    <label for="message">Message:</label>
+    <textarea id="message" name="message" required></textarea>
+  
+    <button type="submit">Submit</button>
+  </form>
+</header>
+</html>
+
+</html>
